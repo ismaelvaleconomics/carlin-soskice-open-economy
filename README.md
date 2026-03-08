@@ -77,5 +77,3 @@ how the dynamics change.
 - Dornbusch, R. (1976). Expectations and Exchange Rate Dynamics.
   *Journal of Political Economy*, 84(6), 1161–1176.
 
-git tag v1.0
-git push origin v1.0
